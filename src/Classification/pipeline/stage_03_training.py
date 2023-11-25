@@ -7,7 +7,6 @@ from Classification import logger
 
 STAGE_NAME = "Training"
 
-
 class ModelTrainingPipeline:
     def __init__(self):
         pass
